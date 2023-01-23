@@ -21,6 +21,7 @@ volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan
     2.1. [Anaconda](00_PythonInstallatie.md#Anaconda)  
     2.2. [MiniConda](00_PythonInstallatie.md#Miniconda)  
     2.3. [VSCode](#2.3.-vscode-installatie)  
+    3.2. [VSCode](#vscode)  
 
 
 ##  <a id='NoInstall'></a> 1. Python zonder lokale installatie
@@ -138,7 +139,7 @@ bevoorbeeld kan gebruiken om zelf python te installeren in een supercomputer com
 De installatieinstructies zijn [hier](https://docs.conda.io/en/latest/miniconda.html) te vinden.
 
 ### 2.3. VSCode Installatie
-<a id='VSCode'></a>
+<a name='vscode'> </a>
 Indien je reeds *Visual Studio Code* geïnstalleerd hebt om aan code-ontwikkeling in een andere
 programmeertaal te doen, kun je ook hier python aan toevoegen. Je kan zowel jupyter notebooks 
 als python scripts in VSCode schrijven, bekijken en uitvoeren. Installatieinstructies kunnen
