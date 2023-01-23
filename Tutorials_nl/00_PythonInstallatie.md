@@ -108,7 +108,7 @@ van een Windows systeem kun je als volgt te werk gaan:
 	een hoger liggende map te gaan of bestanden in een parallelle map te openen. Om 
 	dit feature te omzeilen en jupyter notebooks in een root-map van je keuze te openen 
 	ga je als volgt te werk:< br/>
-      -   Ga naar de map met de **snelkoppeling naar Jupyter notebook**.<br/>
+        i.  Ga naar de map met de **snelkoppeling naar Jupyter notebook**.<br/>
         ii.  Klik rechts op de snelkoppeling en kies **properties** (eigenschappen)<br/>
         iii. Pas de **Start in** lokatie aan naar de map van je keuze. (*e.g.* D:\ )<br/>
         iv.  **Verwijder** het *%USERPROFILE%* in het **Target** veld.<br/>
