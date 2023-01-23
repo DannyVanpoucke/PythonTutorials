@@ -19,7 +19,7 @@ volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan
 	1.2. [Other cloud/web services](00_PythonInstallatie.md#WebService)  
 2. [Python met lokale installatie](00_PythonInstallatie.md#NoInstall)  
     2.1. [Anaconda](00_PythonInstallatie.md#Anaconda)  
-    2.2. [MiniConda](00_PythonInstallatie.md#Miniconda)  
+    2.2. [MiniConda](#Miniconda)  
     2.3. [VSCode](#2.3.-vscode-installatie)  
     3.2. [VSCode](#vscode)  
 
