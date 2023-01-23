@@ -87,52 +87,52 @@ De installatie instructies voor verschillende besturingssystemen kun je terugvin
 [online handleiding](https://docs.anaconda.com/anaconda/install/index.html). In het geval 
 van een Windows systeem kun je als volgt te werk gaan:
 1. **Download Anaconda** [Installer](https://www.anaconda.com/products/distribution). Deze
-     installer is >600Mb groot, dus dat kan even duren.
-2. **Voer de Anaconda-Installer uit**
+     installer is >600Mb groot, dus dat kan even duren.<br/>
+2. **Voer de Anaconda-Installer uit**<br/>
    - **!! OPLETTEN !!** Installeer *enkel voor jezelf* en **niet voor _alle_ _gebruikers_** gezien
-	   dit laatste problemen kan geven met permissies (*i.e.* toegankelijkheid van bestanden)
+	   dit laatste problemen kan geven met permissies (*i.e.* toegankelijkheid van bestanden)<br/>
    - **!! OPLETTEN !!** Installeer op een plaats waar je voldoende ruimte hebt (5-10Gb minimaal)
 	   gezien een python installatie snel in grootte kan groeien met het toevoegen van *packages* 
-	   en *environments*.
+	   en *environments*.<br/>
    - **!! OPLETTEN !!** Vermijd installaties op **OneDrive**,**GoogleDrive**,... en andere van dergelijke virtuele
 	   drives (ook als is dit waar je *default* gebruiksinformatie terechtkomt. Installatie op dergelijke
-	   drives geeft over het algemeen problemen met toegankelijkheid.
-3. **Installatie van Jupyter notebooks**
-   3.1. Start de **Anaconda navigator** (groene cirkelvormige icoon).
-   3.2. Update de navigator indien gevraagd, en herstart na de update.
+	   drives geeft over het algemeen problemen met toegankelijkheid.<br/>
+3. **Installatie van Jupyter notebooks**<br/>
+   3.1. Start de **Anaconda navigator** (groene cirkelvormige icoon).<br/>
+   3.2. Update de navigator indien gevraagd, en herstart na de update.<br/>
    3.3. Check of **Jupyter notebooks** geinstalleerd zijn. Indien niet: Installeer en 
-	      sluit de navigator af na afloop van de installatie.
+	      sluit de navigator af na afloop van de installatie.<br/>
    3.4. Persoonlijk ben ik niet zo een fan van het idee dat alle bestanden van een gebruiker
         in de *user/documents* map terecht moeten komen. Omdat jupyter notebooks de map 
 	waarin het programma opent beschouwen als de *root*-map, is het niet mogelijk naar 
 	een hoger liggende map te gaan of bestanden in een parallelle map te openen. Om 
 	dit feature te omzeilen en jupyter notebooks in een root-map van je keuze te openen 
 	ga je als volgt te werk:< br/>
-        i.   Ga naar de map met de **snelkoppeling naar Jupyter notebook**.
-        ii.  Klik rechts op de snelkoppeling en kies **properties** (eigenschappen)
-        iii. Pas de **Start in** lokatie aan naar de map van je keuze. (*e.g.* D:\ )
-        iv.  **Verwijder** het *%USERPROFILE%* in het **Target** veld.
-        v.   **Voeg de gekozen lokatie toe** (hier was dat D:\ ) aan het **einde** van het **Target** veld.
+        i.   Ga naar de map met de **snelkoppeling naar Jupyter notebook**.<br/>
+        ii.  Klik rechts op de snelkoppeling en kies **properties** (eigenschappen)<br/>
+        iii. Pas de **Start in** lokatie aan naar de map van je keuze. (*e.g.* D:\ )<br/>
+        iv.  **Verwijder** het *%USERPROFILE%* in het **Target** veld.<br/>
+        v.   **Voeg de gekozen lokatie toe** (hier was dat D:\ ) aan het **einde** van het **Target** veld.<br/>
         vi.  Indien je meerdere drives op je computer hebt, en je wenst jupyter notebooks vanop
 			     verschillende drives te starten, dan kun je gebruik maken van snelkoppelingen tussen
 				 de verschillende drives.(Merk op dat je eindpunt van een snelkoppeling telkens de rol
-				 van een *root* map krijgt.)
-4. **Update van Python omgeving naar huidige versie**
-   4.1. Start de **Anaconda Powershell Prompt** als **_administrator_** (zwarte venster icoon)
-   4.2. Om de meest recente versie van conda te hebben type je in de powershell: **conda update conda**.
+				 van een *root* map krijgt.)<br/>
+4. **Update van Python omgeving naar huidige versie**<br/>
+   4.1. Start de **Anaconda Powershell Prompt** als **_administrator_** (zwarte venster icoon)<br/>
+   4.2. Om de meest recente versie van conda te hebben type je in de powershell: **conda update conda**.<br/>
    4.3. Hoewel jupyter notebooks reeds zeer krachtig zijn, zijn er enkele plugins welke je werk
-	        nog eenvoudiger kunnen maken. Hiervoor ga je als volgt te werk.
-        i.   In de Powershell type je: **conda install -c conda-forge jupyter_contrib_nbextensions**
-        ii.  Daarna type je, nog steeds in de Powershell: **jupyter contrib nbextension install -user**
-        iii. Open nu het **jupyter notebook** programma (oranje icoon)
-        iv.  In de webbrowser, in de tab waar je de bestandsboom ziet klik je op de tab **Nbextensions**
-        v.   Deselecteer **Disable configuration...**
-        vi.  Selecteer nu de extensies van je keuze. Bijvoorbeeld:
-              - *Latex environments* die je toelaten latex vergelijkingen in je markdown toe te voegen.
-              - *Scratchpad* een kleine kladblok popup waarin je snel python commando's kan uittesten
-              - *ExecuteTime* om te zien hoe lang het duurde om een cel uit te voeren.
+	        nog eenvoudiger kunnen maken. Hiervoor ga je als volgt te werk.<br/>
+        i.   In de Powershell type je: **conda install -c conda-forge jupyter_contrib_nbextensions**<br/>
+        ii.  Daarna type je, nog steeds in de Powershell: **jupyter contrib nbextension install -user**<br/>
+        iii. Open nu het **jupyter notebook** programma (oranje icoon)<br/>
+        iv.  In de webbrowser, in de tab waar je de bestandsboom ziet klik je op de tab **Nbextensions**<br/>
+        v.   Deselecteer **Disable configuration...**<br/>
+        vi.  Selecteer nu de extensies van je keuze. Bijvoorbeeld:<br/>
+              - *Latex environments* die je toelaten latex vergelijkingen in je markdown toe te voegen.<br/>
+              - *Scratchpad* een kleine kladblok popup waarin je snel python commando's kan uittesten<br/>
+              - *ExecuteTime* om te zien hoe lang het duurde om een cel uit te voeren.<br/>
               - *Codefolding* wat je toelaat om stukken code samen te vouwen en zo een compactere en 
-					   overzichtelijkere notebook te creëren.
+	        overzichtelijkere notebook te creëren.<br/>
 
 ###  <a name='miniconda'> </a> 2.2. Miniconda
 Miniconda is een lichtgewicht broertje van Anaconda. Dit is een interessante omgeving welke je 
