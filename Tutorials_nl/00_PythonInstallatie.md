@@ -16,7 +16,7 @@ volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan
 ## Inhoud
 1. [Python zonder lokale installatie](#noinstall)  
     1.1. [Google Colaboratory](#colab)  
-	1.2. [Other cloud/web services](#webservice)  
+    1.2. [Other cloud/web services](#webservice)  
 2. [Python met lokale installatie](#install)  
     2.1. [Anaconda](#anaconda)  
     2.2. [MiniConda](#miniconda)  
@@ -31,36 +31,36 @@ Binnen deze tutorial-reeks zullen we Python leren kennen aan de hand van Jupyter
 Deze notebooks kun je lokaal uitvoeren indien je Python op je computer installeert, maar ook
 als zogenaamde **_Google Colaboratory_** documenten op de google drive van je google account.
 Dit kan op zeer eenvoudige wijze: <br/>
-        1. Open je **google drive** in een web browser. <br/>
-	2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**<br/>
-	3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit 
-       dat je deze *app* nog dient toe te voegen. Dit kan als volgt: <br/> 
-           3.1. **New** &rarr; **More** &rarr; **Connect more apps** <br/>
-	   3.2. Zoek **Google Colaboratory**<br/>
-	   3.3. Selecteer **Colaboratory** (Oranje symbool)<br/>
-	   3.4. Installeer (Install).<br/>
-	   3.5. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
-	4. Er wordt nu een nieuw document aangemaakt met de naam **Untitled0.ipynb**. Hierin kun 
+1. Open je **google drive** in een web browser. <br/>
+2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**<br/>
+3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit 
+   dat je deze *app* nog dient toe te voegen. Dit kan als volgt: <br/> 
+   3.1. **New** &rarr; **More** &rarr; **Connect more apps** <br/>
+   3.2. Zoek **Google Colaboratory**<br/>
+   3.3. Selecteer **Colaboratory** (Oranje symbool)<br/>
+   3.4. Installeer (Install).<br/>
+   3.5. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
+4. Er wordt nu een nieuw document aangemaakt met de naam **Untitled0.ipynb**. Hierin kun 
 	   je aan de slag gaan indien je zelf een nieuw notebook wil aanmaken. Je kan echter 
 	   ook een bestaand notebook openen (zie puntje *5* hieronder)<br/>
-	5. **Inladen van een Tutorial-notebook**. Naast het aanmaken van eigen notebooks is het ook
+5. **Inladen van een Tutorial-notebook**. Naast het aanmaken van eigen notebooks is het ook
 	   eenvoudig om een notebook in te laden van een andere locatie. Je kan de totorials van deze
 	   reeks, welke op **Github** te vinden zijn, eenvoudig rechtstreeks inladen.<br/>
-	   5.1. In je Colaboratory document, klik op **File** &rarr; **Open Notebook**.<br/>
-	   5.2. In het popup venster selecteer je **GitHub**<br/>
-	   5.3. **!!** Er zal nog een extra popup venster verschijnen dat vraagt om in te loggen in je 
+   5.1. In je Colaboratory document, klik op **File** &rarr; **Open Notebook**.<br/>
+   5.2. In het popup venster selecteer je **GitHub**<br/>
+   5.3. **!!** Er zal nog een extra popup venster verschijnen dat vraagt om in te loggen in je 
 	        Github account. Dit is een neveneffect van het aangevinkt staan van de optie 
 		**Include private repos**. Je kan deze optie afvinken en het login venster
 		zonder verder gevolg sluiten.<br/>
-	   5.4. Om de notebooks van deze tutorial te vinden kun je in de **zoekoptie** volgende tekst 
+   5.4. Om de notebooks van deze tutorial te vinden kun je in de **zoekoptie** volgende tekst 
 	        invoeren: *DannyVanpoucke/PythonTutorials* <br/>
-	   5.5. Je krijgt nu enkele tutorials om uit te kiezen. Klik op het jupyter notebook in de 
+   5.5. Je krijgt nu enkele tutorials om uit te kiezen. Klik op het jupyter notebook in de 
             lijst dat je wenst te openen (*e.g.* **01_IntroPython.ipynb** ) <br/>
-           5.6. Zoals je in de adressbalk kan zien is het notebook nog steeds in de GitHub repository
+   5.6. Zoals je in de adressbalk kan zien is het notebook nog steeds in de GitHub repository
                 gelocaliseerd, wat betekent dat je deze niet zal kunnen opslaan (tenzij het een 
 		notebook in een eigen GitHub repository is. *Sla daarom het notebook op in je drive door*
 		**Copy to Drive** *te klikken.* <br/>
-	   5.7. Je kan nu in de kopie aan de slag gaan en deze naar eigen noden en goeddunken aanpassen.
+   5.7. Je kan nu in de kopie aan de slag gaan en deze naar eigen noden en goeddunken aanpassen.
 
 
 ###  <a name='webservice'> </a> 1.2. Other cloud/web services
