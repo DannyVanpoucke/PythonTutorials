@@ -98,7 +98,7 @@ van een Windows systeem kun je als volgt te werk gaan:
 	   drives (ook als is dit waar je *default* gebruiksinformatie terechtkomt. Installatie op dergelijke
 	   drives geeft over het algemeen problemen met toegankelijkheid.<br/>
 3. **Installatie van Jupyter notebooks**<br/>
-    3.1. Start de **Anaconda navigator** (groene cirkelvormige icoon).<br/>
+   3.1. Start de **Anaconda navigator** (groene cirkelvormige icoon).<br/>
    3.2. Update de navigator indien gevraagd, en herstart na de update.<br/>
    3.3. Check of **Jupyter notebooks** geinstalleerd zijn. Indien niet: Installeer en 
 	      sluit de navigator af na afloop van de installatie.<br/>
@@ -108,7 +108,7 @@ van een Windows systeem kun je als volgt te werk gaan:
 	een hoger liggende map te gaan of bestanden in een parallelle map te openen. Om 
 	dit feature te omzeilen en jupyter notebooks in een root-map van je keuze te openen 
 	ga je als volgt te werk:< br/>
-        i.   Ga naar de map met de **snelkoppeling naar Jupyter notebook**.<br/>
+      -   Ga naar de map met de **snelkoppeling naar Jupyter notebook**.<br/>
         ii.  Klik rechts op de snelkoppeling en kies **properties** (eigenschappen)<br/>
         iii. Pas de **Start in** lokatie aan naar de map van je keuze. (*e.g.* D:\ )<br/>
         iv.  **Verwijder** het *%USERPROFILE%* in het **Target** veld.<br/>
