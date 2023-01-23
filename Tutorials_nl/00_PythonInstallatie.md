@@ -14,13 +14,13 @@ Voor deze tutorials is dit laatste echter niet nodig. Dit deel is toegevoegd voo
 volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan zouden hebben.
 
 ## Inhoud
-1. [Python zonder lokale installatie](00_PythonInstallatie.md#NoInstall)
-    1.1. [Google Colaboratory](00_PythonInstallatie.md#Colab)
-	1.2. [Other cloud/web services](00_PythonInstallatie.md#WebService)
-2. [Python met lokale installatie](00_PythonInstallatie.md#NoInstall)
-    2.1. [Anaconda](00_PythonInstallatie.md#Anaconda)
-    2.2. [MiniConda](00_PythonInstallatie.md#Miniconda)
-    2.3. [VSCode](00_PythonInstallatie.md#VSCode)
+1. [Python zonder lokale installatie](00_PythonInstallatie.md#NoInstall)  
+    1.1. [Google Colaboratory](00_PythonInstallatie.md#Colab)  
+	1.2. [Other cloud/web services](00_PythonInstallatie.md#WebService)  
+2. [Python met lokale installatie](00_PythonInstallatie.md#NoInstall)  
+    2.1. [Anaconda](00_PythonInstallatie.md#Anaconda)  
+    2.2. [MiniConda](00_PythonInstallatie.md#Miniconda)  
+    2.3. [VSCode](00_PythonInstallatie.md#VSCode)  
 
 
 ##  <a id='NoInstall'></a> 1. Python zonder lokale installatie
