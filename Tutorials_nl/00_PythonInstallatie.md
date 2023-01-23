@@ -137,7 +137,8 @@ Miniconda is een lichtgewicht broertje van Anaconda. Dit is een interessante omg
 bevoorbeeld kan gebruiken om zelf python te installeren in een supercomputer comgeving.
 De installatieinstructies zijn [hier](https://docs.conda.io/en/latest/miniconda.html) te vinden.
 
-###  <a id='VSCode'></a> 2.3. VSCode Installatie
+### 2.3. VSCode Installatie
+<a id='VSCode'></a>
 Indien je reeds *Visual Studio Code* geïnstalleerd hebt om aan code-ontwikkeling in een andere
 programmeertaal te doen, kun je ook hier python aan toevoegen. Je kan zowel jupyter notebooks 
 als python scripts in VSCode schrijven, bekijken en uitvoeren. Installatieinstructies kunnen
