@@ -14,18 +14,18 @@ Voor deze tutorials is dit laatste echter niet nodig. Dit deel is toegevoegd voo
 volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan zouden hebben.
 
 ## Inhoud
-1. [Python zonder lokale installatie](#python-zonder-lokale-installatie)  
-    1.1. [Google Colaboratory](00_PythonInstallatie.md#Colab)  
-	1.2. [Other cloud/web services](00_PythonInstallatie.md#WebService)  
-2. [Python met lokale installatie](00_PythonInstallatie.md#NoInstall)  
+1. [Python zonder lokale installatie](#noinstall)  
+    1.1. [Google Colaboratory](#colab)  
+	1.2. [Other cloud/web services](#webservice)  
+2. [Python met lokale installatie](#install)  
     2.1. [Anaconda](#anaconda)  
     2.2. [MiniConda](#miniconda)  
     2.3. [VSCode](#vscode)  
-    
+<!-- Links are a bit tricky, local links go through anchors: HTML-A-tags. However, to work the "name" variable should be all non-caps -->
+<!-- add 2 blank spaces at the end of a line to get a linebreak or use < br/> or add empty line -->
 
-##  <a name='NoInstall'></a> 1. Python zonder lokale installatie
-
-###  <a name='Colab'> </a> 1.1. Google Colaboratory
+##  <a name='noinstall'></a> 1. Python zonder lokale installatie< br/>
+###  <a name='colab'> </a> 1.1. Google Colaboratory
 Binnen deze tutorial-reeks zullen we Python leren kennen aan de hand van Jupyter Notebooks. 
 Deze notebooks kun je lokaal uitvoeren indien je Python op je computer installeert, maar ook
 als zogenaamde **_Google Colaboratory_** documenten op de google drive van je google account.
@@ -61,7 +61,7 @@ Dit kan op zeer eenvoudige wijze:
 			**Copy to Drive** *te klikken.*
 	   5.7. Je kan nu in de kopie aan de slag gaan en deze naar eigen noden en goeddunken aanpassen.
 
-###  <a name='WebService'> </a> 1.2. Other cloud/web services
+###  <a name='webservice'> </a> 1.2. Other cloud/web services
 De populariteit van Python heeft ervoor gezorgd dat er dat er ook verschillende webservices beschikbaar
 zijn waar je als gebruiker Python code kan ontwikkelen en testen, zonder zelf iest te moeten installeren.
 Enkele voorbeelden (zonder endorsement) kun je hieronder vinden:
@@ -69,7 +69,7 @@ Enkele voorbeelden (zonder endorsement) kun je hieronder vinden:
    2. [repl.it](https://replit.com/)
 
 
-##  <a name='Install'> </a> 2. Python met lokale installatie
+##  <a name='install'> </a> 2. Python met lokale installatie
 Afhankelijk van je besturingssysteem (Windows, Mac or Linux) en de persoonlijke wensen, kan de
 installatie van een programmeeromgeving voor Python eenvoudiger of complexer zijn. Er bestaan
 verschillende omgevingen en IDE's elk met hun voor en nadelen. 
