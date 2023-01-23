@@ -24,13 +24,14 @@ volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan
 <!-- Links are a bit tricky, local links go through anchors: HTML-A-tags. However, to work the "name" variable should be all non-caps -->
 <!-- add 2 blank spaces at the end of a line to get a linebreak or use < br/> or add empty line -->
 
-##  <a name='noinstall'> </a> 1. Python zonder lokale installatie < br/>
+##  <a name='noinstall'> </a> 1. Python zonder lokale installatie  
+
 ###  <a name='colab'> </a> 1.1. Google Colaboratory
 Binnen deze tutorial-reeks zullen we Python leren kennen aan de hand van Jupyter Notebooks. 
 Deze notebooks kun je lokaal uitvoeren indien je Python op je computer installeert, maar ook
 als zogenaamde **_Google Colaboratory_** documenten op de google drive van je google account.
 Dit kan op zeer eenvoudige wijze:
-    1. Open je **google drive** in een web browser.
+        1. Open je **google drive** in een web browser. <br/>
 	2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**
 	3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit 
        dat je deze *app* nog dient toe te voegen. Dit kan als volgt:  
