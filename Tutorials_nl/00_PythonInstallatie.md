@@ -133,7 +133,7 @@ van een Windows systeem kun je als volgt te werk gaan:
 					- *Codefolding* wat je toelaat om stukken code samen te vouwen en zo een compactere en 
 					   overzichtelijkere notebook te creëren.
 
-###  <a name='Miniconda'></a> 2.2. Miniconda
+###  <a name='miniconda'> </a> 2.2. Miniconda
 Miniconda is een lichtgewicht broertje van Anaconda. Dit is een interessante omgeving welke je 
 bevoorbeeld kan gebruiken om zelf python te installeren in een supercomputer comgeving.
 De installatieinstructies zijn [hier](https://docs.conda.io/en/latest/miniconda.html) te vinden.
