@@ -26,7 +26,7 @@ volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan
 
 ##  <a name='NoInstall'></a> 1. Python zonder lokale installatie
 
-###  <a name='Colab'></a> 1.1. Google Colaboratory
+###  <a name='Colab'> </a> 1.1. Google Colaboratory
 Binnen deze tutorial-reeks zullen we Python leren kennen aan de hand van Jupyter Notebooks. 
 Deze notebooks kun je lokaal uitvoeren indien je Python op je computer installeert, maar ook
 als zogenaamde **_Google Colaboratory_** documenten op de google drive van je google account.
@@ -62,7 +62,7 @@ Dit kan op zeer eenvoudige wijze:
 			**Copy to Drive** *te klikken.*
 	   5.7. Je kan nu in de kopie aan de slag gaan en deze naar eigen noden en goeddunken aanpassen.
 
-###  <a name='WebService'></a> 1.2. Other cloud/web services
+###  <a name='WebService'> </a> 1.2. Other cloud/web services
 De populariteit van Python heeft ervoor gezorgd dat er dat er ook verschillende webservices beschikbaar
 zijn waar je als gebruiker Python code kan ontwikkelen en testen, zonder zelf iest te moeten installeren.
 Enkele voorbeelden (zonder endorsement) kun je hieronder vinden:
@@ -70,12 +70,12 @@ Enkele voorbeelden (zonder endorsement) kun je hieronder vinden:
    2. [repl.it](https://replit.com/)
 
 
-##  <a name='Install'></a> 2. Python met lokale installatie
+##  <a name='Install'> </a> 2. Python met lokale installatie
 Afhankelijk van je besturingssysteem (Windows, Mac or Linux) en de persoonlijke wensen, kan de
 installatie van een programmeeromgeving voor Python eenvoudiger of complexer zijn. Er bestaan
 verschillende omgevingen en IDE's elk met hun voor en nadelen. 
 
-###  <a name='Anaconda'></a> 2.1. Anaconda
+###  <a name='Anaconda'> </a> 2.1. Anaconda
 De anaconda omgeving geeft je toegang tot een uitgebreid aantal tools welke je kan gebruiken
 bij het ontwikkelen van Python scripten. Er is een commandline omgeving om efficient nieuwe
 bibliotheken te installeren of te upgraden (maar dit kan ook via de GUI). De Spyder-tool is een
