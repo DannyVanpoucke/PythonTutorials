@@ -18,11 +18,10 @@ volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan
     1.1. [Google Colaboratory](00_PythonInstallatie.md#Colab)  
 	1.2. [Other cloud/web services](00_PythonInstallatie.md#WebService)  
 2. [Python met lokale installatie](00_PythonInstallatie.md#NoInstall)  
-    2.1. [Anaconda](00_PythonInstallatie.md#Anaconda)  
-    2.2. [MiniConda](#Miniconda)  
-    2.3. [VSCode](#2.3.-vscode-installatie)  
-    3.2. [VSCode](#vscode)  
-
+    2.1. [Anaconda](#anaconda)  
+    2.2. [MiniConda](#miniconda)  
+    2.3. [VSCode](#vscode)  
+    
 
 ##  <a name='NoInstall'></a> 1. Python zonder lokale installatie
 
@@ -75,7 +74,7 @@ Afhankelijk van je besturingssysteem (Windows, Mac or Linux) en de persoonlijke 
 installatie van een programmeeromgeving voor Python eenvoudiger of complexer zijn. Er bestaan
 verschillende omgevingen en IDE's elk met hun voor en nadelen. 
 
-###  <a name='Anaconda'> </a> 2.1. Anaconda
+###  <a name='anaconda'> </a> 2.1. Anaconda
 De anaconda omgeving geeft je toegang tot een uitgebreid aantal tools welke je kan gebruiken
 bij het ontwikkelen van Python scripten. Er is een commandline omgeving om efficient nieuwe
 bibliotheken te installeren of te upgraden (maar dit kan ook via de GUI). De Spyder-tool is een
