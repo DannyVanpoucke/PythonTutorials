@@ -15,7 +15,7 @@ volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan
 
 ## Inhoud
 1. [Python zonder lokale installatie](#noinstall)  
-    1.1. [Google Colaboratory](#colab)  
+   1.1. [Google Colaboratory](#colab)  
     1.2. [Other cloud/web services](#webservice)  
 2. [Python met lokale installatie](#install)  
     2.1. [Anaconda](#anaconda)  
