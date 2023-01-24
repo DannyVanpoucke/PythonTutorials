@@ -33,7 +33,7 @@ als zogenaamde **_Google Colaboratory_** documenten op de google drive van je go
 Dit kan op zeer eenvoudige wijze: <br/>
 1. Open je **google drive** in een web browser.
 2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**
-3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:
+3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:   
    3.1. **New** &rarr; **More** &rarr; **Connect more apps** <br/>
    3.2. Zoek **Google Colaboratory**<br/>
    3.3. Selecteer **Colaboratory** (Oranje symbool)<br/>
