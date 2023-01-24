@@ -34,13 +34,13 @@ Dit kan op zeer eenvoudige wijze: <br/>
 1. Open je **google drive** in een web browser.
 2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**
 3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:<br/>
-   3.1. **New** &rarr; **More** &rarr; **Connect more apps** <br/>
+   a. **New** &rarr; **More** &rarr; **Connect more apps** <br/>
         - sublist
         - 
-   5.2. Zoek **Google Colaboratory**<br/>
-   6.3. Selecteer **Colaboratory** (Oranje symbool)<br/>
-   7.4. Installeer (Install).<br/>
-   8.5. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
+   b. Zoek **Google Colaboratory**<br/>
+   c. Selecteer **Colaboratory** (Oranje symbool)<br/>
+   d. Installeer (Install).<br/>
+   e. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
 4. Er wordt nu een nieuw document aangemaakt met de naam **Untitled0.ipynb**. Hierin kun 
 	   je aan de slag gaan indien je zelf een nieuw notebook wil aanmaken. Je kan echter 
 	   ook een bestaand notebook openen (zie puntje *5* hieronder)<br/>
