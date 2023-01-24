@@ -33,11 +33,11 @@ Binnen deze tutorial-reeks zullen we Python leren kennen aan de hand van Jupyter
 2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**
 3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:
 
-   a. **New** &rarr; **More** &rarr; **Connect more apps**
-   b. Zoek **Google Colaboratory**
-   c. Selecteer **Colaboratory** (Oranje symbool)<br/>
-   d. Installeer (Install).<br/>
-   e. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
+   1. **New** &rarr; **More** &rarr; **Connect more apps**
+   2. Zoek **Google Colaboratory**
+   3. Selecteer **Colaboratory** (Oranje symbool)<br/>
+   4. Installeer (Install).<br/>
+   5. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
 4. Er wordt nu een nieuw document aangemaakt met de naam **Untitled0.ipynb**. Hierin kun je aan de slag gaan indien je zelf een nieuw notebook wil aanmaken. Je kan echter ook een bestaand notebook openen (zie puntje *5* hieronder)<br/>
 5. **Inladen van een Tutorial-notebook**. Naast het aanmaken van eigen notebooks is het ook eenvoudig om een notebook in te laden van een andere locatie. Je kan de totorials van deze
 	   reeks, welke op **Github** te vinden zijn, eenvoudig rechtstreeks inladen.<br/>
