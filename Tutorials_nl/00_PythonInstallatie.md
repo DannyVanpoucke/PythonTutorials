@@ -32,6 +32,7 @@ Binnen deze tutorial-reeks zullen we Python leren kennen aan de hand van Jupyter
 1. Open je **google drive** in een web browser.
 2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**
 3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:
+
    a. **New** &rarr; **More** &rarr; **Connect more apps**
    b. Zoek **Google Colaboratory**
    c. Selecteer **Colaboratory** (Oranje symbool)<br/>
