@@ -35,8 +35,8 @@ Dit kan op zeer eenvoudige wijze: <br/>
 2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**
 3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:<br/>
    a. **New** &rarr; **More** &rarr; **Connect more apps** <br/>
-        - sublist
-        - 
+      - sublist
+      - sublist 2 
    b. Zoek **Google Colaboratory**<br/>
    c. Selecteer **Colaboratory** (Oranje symbool)<br/>
    d. Installeer (Install).<br/>
