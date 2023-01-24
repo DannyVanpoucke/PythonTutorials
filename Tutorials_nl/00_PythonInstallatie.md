@@ -16,11 +16,11 @@ volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan
 ## Inhoud
 1. [Python zonder lokale installatie](#noinstall)  
    1.1. [Google Colaboratory](#colab)  
-    1.2. [Other cloud/web services](#webservice)  
+   1.2. [Other cloud/web services](#webservice)  
 2. [Python met lokale installatie](#install)  
-    2.1. [Anaconda](#anaconda)  
-    2.2. [MiniConda](#miniconda)  
-    2.3. [VSCode](#vscode)  
+   2.1. [Anaconda](#anaconda)  
+   2.2. [MiniConda](#miniconda)  
+   2.3. [VSCode](#vscode)  
 <!-- Links are a bit tricky, local links go through anchors: HTML-A-tags. However, to work the "name" variable should be all non-caps -->
 <!-- add 2 blank spaces at the end of a line to get a linebreak or use < br/> or add empty line -->
 
@@ -33,12 +33,14 @@ als zogenaamde **_Google Colaboratory_** documenten op de google drive van je go
 Dit kan op zeer eenvoudige wijze: <br/>
 1. Open je **google drive** in een web browser.
 2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**
-3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:   
+3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:<br/>
    3.1. **New** &rarr; **More** &rarr; **Connect more apps** <br/>
-   3.2. Zoek **Google Colaboratory**<br/>
-   3.3. Selecteer **Colaboratory** (Oranje symbool)<br/>
-   3.4. Installeer (Install).<br/>
-   3.5. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
+        - sublist
+        - 
+   5.2. Zoek **Google Colaboratory**<br/>
+   6.3. Selecteer **Colaboratory** (Oranje symbool)<br/>
+   7.4. Installeer (Install).<br/>
+   8.5. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
 4. Er wordt nu een nieuw document aangemaakt met de naam **Untitled0.ipynb**. Hierin kun 
 	   je aan de slag gaan indien je zelf een nieuw notebook wil aanmaken. Je kan echter 
 	   ook een bestaand notebook openen (zie puntje *5* hieronder)<br/>
