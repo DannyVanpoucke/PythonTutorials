@@ -35,27 +35,20 @@ Binnen deze tutorial-reeks zullen we Python leren kennen aan de hand van Jupyter
 
    1. **New** &rarr; **More** &rarr; **Connect more apps**
    2. Zoek **Google Colaboratory**
-   3. Selecteer **Colaboratory** (Oranje symbool)<br/>
-   4. Installeer (Install).<br/>
-   5. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
-4. Er wordt nu een nieuw document aangemaakt met de naam **Untitled0.ipynb**. Hierin kun je aan de slag gaan indien je zelf een nieuw notebook wil aanmaken. Je kan echter ook een bestaand notebook openen (zie puntje *5* hieronder)<br/>
-5. **Inladen van een Tutorial-notebook**. Naast het aanmaken van eigen notebooks is het ook eenvoudig om een notebook in te laden van een andere locatie. Je kan de totorials van deze
-	   reeks, welke op **Github** te vinden zijn, eenvoudig rechtstreeks inladen.<br/>
-   a. In je Colaboratory document, klik op **File** &rarr; **Open Notebook**.<br/>
-   b. In het popup venster selecteer je **GitHub**<br/>
-   c. **!!** Er zal nog een extra popup venster verschijnen dat vraagt om in te loggen in je 
-	        Github account. Dit is een neveneffect van het aangevinkt staan van de optie 
-		**Include private repos**. Je kan deze optie afvinken en het login venster
-		zonder verder gevolg sluiten.<br/>
-   5.4. Om de notebooks van deze tutorial te vinden kun je in de **zoekoptie** volgende tekst 
-	        invoeren: *DannyVanpoucke/PythonTutorials* <br/>
-   5.5. Je krijgt nu enkele tutorials om uit te kiezen. Klik op het jupyter notebook in de 
-            lijst dat je wenst te openen (*e.g.* **01_IntroPython.ipynb** ) <br/>
-   5.6. Zoals je in de adressbalk kan zien is het notebook nog steeds in de GitHub repository
-                gelocaliseerd, wat betekent dat je deze niet zal kunnen opslaan (tenzij het een 
-		notebook in een eigen GitHub repository is. *Sla daarom het notebook op in je drive door*
-		**Copy to Drive** *te klikken.* <br/>
-   5.7. Je kan nu in de kopie aan de slag gaan en deze naar eigen noden en goeddunken aanpassen.
+   3. Selecteer **Colaboratory** (Oranje symbool)
+   4. Installeer (Install).
+   5. Na de installatie kun je puntje *2* hierboven uitvoeren.
+
+4. Er wordt nu een nieuw document aangemaakt met de naam **Untitled0.ipynb**. Hierin kun je aan de slag gaan indien je zelf een nieuw notebook wil aanmaken. Je kan echter ook een bestaand notebook openen (zie puntje *5* hieronder)
+5. **Inladen van een Tutorial-notebook**. Naast het aanmaken van eigen notebooks is het ook eenvoudig om een notebook in te laden van een andere locatie. Je kan de totorials van deze reeks, welke op **Github** te vinden zijn, eenvoudig rechtstreeks inladen.
+
+   1. In je Colaboratory document, klik op **File** &rarr; **Open Notebook**.<br/>
+   2. In het popup venster selecteer je **GitHub**<br/>
+   3. **!!** Er zal nog een extra popup venster verschijnen dat vraagt om in te loggen in je Github account. Dit is een neveneffect van het aangevinkt staan van de optie **Include private repos**. Je kan deze optie afvinken en het login venster zonder verder gevolg sluiten.
+   4. Om de notebooks van deze tutorial te vinden kun je in de **zoekoptie** volgende tekst invoeren: *DannyVanpoucke/PythonTutorials*
+   5. Je krijgt nu enkele tutorials om uit te kiezen. Klik op het jupyter notebook in de lijst dat je wenst te openen (*e.g.* **01_IntroPython.ipynb** )
+   6. Zoals je in de adressbalk kan zien is het notebook nog steeds in de GitHub repository gelocaliseerd, wat betekent dat je deze niet zal kunnen opslaan (tenzij het een notebook in een eigen GitHub repository is. *Sla daarom het notebook op in je drive door* **Copy to Drive** *te klikken.*
+   7. Je kan nu in de kopie aan de slag gaan en deze naar eigen noden en goeddunken aanpassen.
 
 
 ###  <a name='webservice'> </a> 1.2. Other cloud/web services
