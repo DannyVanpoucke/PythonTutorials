@@ -27,29 +27,22 @@ volledigheid, en kan gebruikt worden door hen die daar wel interesse of nood aan
 ##  <a name='noinstall'> </a> 1. Python zonder lokale installatie  
 
 ###  <a name='colab'> </a> 1.1. Google Colaboratory
-Binnen deze tutorial-reeks zullen we Python leren kennen aan de hand van Jupyter Notebooks. 
-Deze notebooks kun je lokaal uitvoeren indien je Python op je computer installeert, maar ook
-als zogenaamde **_Google Colaboratory_** documenten op de google drive van je google account.
-Dit kan op zeer eenvoudige wijze: <br/>
+Binnen deze tutorial-reeks zullen we Python leren kennen aan de hand van Jupyter Notebooks. Deze notebooks kun je lokaal uitvoeren indien je Python op je computer installeert, maar ook als zogenaamde **_Google Colaboratory_** documenten op de google drive van je google account. Dit kan op zeer eenvoudige wijze: 
+
 1. Open je **google drive** in een web browser.
 2. Klik op **New** (Links boven)&rarr; **More** &rarr; **Google Colaboratory**
-3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:<br/>
-   a. **New** &rarr; **More** &rarr; **Connect more apps** <br/>
-      - sublist
-      - sublist 2 
-   b. Zoek **Google Colaboratory**<br/>
+3. **!!** Indien je hierboven geen Google Colaboratory ziet verschijnen, dan betekent dit dat je deze *app* nog dient toe te voegen. Dit kan als volgt:
+   a. **New** &rarr; **More** &rarr; **Connect more apps**
+   b. Zoek **Google Colaboratory**
    c. Selecteer **Colaboratory** (Oranje symbool)<br/>
    d. Installeer (Install).<br/>
    e. Na de installatie kun je puntje *2* hierboven uitvoeren.<br/>
-4. Er wordt nu een nieuw document aangemaakt met de naam **Untitled0.ipynb**. Hierin kun 
-	   je aan de slag gaan indien je zelf een nieuw notebook wil aanmaken. Je kan echter 
-	   ook een bestaand notebook openen (zie puntje *5* hieronder)<br/>
-5. **Inladen van een Tutorial-notebook**. Naast het aanmaken van eigen notebooks is het ook
-	   eenvoudig om een notebook in te laden van een andere locatie. Je kan de totorials van deze
+4. Er wordt nu een nieuw document aangemaakt met de naam **Untitled0.ipynb**. Hierin kun je aan de slag gaan indien je zelf een nieuw notebook wil aanmaken. Je kan echter ook een bestaand notebook openen (zie puntje *5* hieronder)<br/>
+5. **Inladen van een Tutorial-notebook**. Naast het aanmaken van eigen notebooks is het ook eenvoudig om een notebook in te laden van een andere locatie. Je kan de totorials van deze
 	   reeks, welke op **Github** te vinden zijn, eenvoudig rechtstreeks inladen.<br/>
-   5.1. In je Colaboratory document, klik op **File** &rarr; **Open Notebook**.<br/>
-   5.2. In het popup venster selecteer je **GitHub**<br/>
-   5.3. **!!** Er zal nog een extra popup venster verschijnen dat vraagt om in te loggen in je 
+   a. In je Colaboratory document, klik op **File** &rarr; **Open Notebook**.<br/>
+   b. In het popup venster selecteer je **GitHub**<br/>
+   c. **!!** Er zal nog een extra popup venster verschijnen dat vraagt om in te loggen in je 
 	        Github account. Dit is een neveneffect van het aangevinkt staan van de optie 
 		**Include private repos**. Je kan deze optie afvinken en het login venster
 		zonder verder gevolg sluiten.<br/>
