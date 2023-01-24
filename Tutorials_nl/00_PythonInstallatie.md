@@ -92,22 +92,20 @@ van een Windows systeem kun je als volgt te werk gaan:
       4.  **Verwijder** het *%USERPROFILE%* in het **Target** veld.
       5.   **Voeg de gekozen lokatie toe** (hier was dat D:\ ) aan het **einde** van het **Target** veld.
       6.  Indien je meerdere drives op je computer hebt, en je wenst jupyter notebooks vanop verschillende drives te starten, dan kun je gebruik maken van snelkoppelingen tussen de verschillende drives.(Merk op dat je eindpunt van een snelkoppeling telkens de rol	van een *root* map krijgt.)
-4. **Update van Python omgeving naar huidige versie**<br/>
-   4.1. Start de **Anaconda Powershell Prompt** als **_administrator_** (zwarte venster icoon)<br/>
-   4.2. Om de meest recente versie van conda te hebben type je in de powershell: **conda update conda**.<br/>
-   4.3. Hoewel jupyter notebooks reeds zeer krachtig zijn, zijn er enkele plugins welke je werk
-	        nog eenvoudiger kunnen maken. Hiervoor ga je als volgt te werk.<br/>
-        i.   In de Powershell type je: **conda install -c conda-forge jupyter_contrib_nbextensions**<br/>
-        ii.  Daarna type je, nog steeds in de Powershell: **jupyter contrib nbextension install -user**<br/>
-        iii. Open nu het **jupyter notebook** programma (oranje icoon)<br/>
-        iv.  In de webbrowser, in de tab waar je de bestandsboom ziet klik je op de tab **Nbextensions**<br/>
-        v.   Deselecteer **Disable configuration...**<br/>
-        vi.  Selecteer nu de extensies van je keuze. Bijvoorbeeld:<br/>
-              - *Latex environments* die je toelaten latex vergelijkingen in je markdown toe te voegen.<br/>
-              - *Scratchpad* een kleine kladblok popup waarin je snel python commando's kan uittesten<br/>
-              - *ExecuteTime* om te zien hoe lang het duurde om een cel uit te voeren.<br/>
-              - *Codefolding* wat je toelaat om stukken code samen te vouwen en zo een compactere en 
-	        overzichtelijkere notebook te creëren.<br/>
+4. **Update van Python omgeving naar huidige versie**
+   1. Start de **Anaconda Powershell Prompt** als **_administrator_** (zwarte venster icoon)
+   2. Om de meest recente versie van conda te hebben type je in de powershell: **conda update conda**.
+   3. Hoewel jupyter notebooks reeds zeer krachtig zijn, zijn er enkele plugins welke je werk nog eenvoudiger kunnen maken. Hiervoor ga je als volgt te werk.
+      1.   In de Powershell type je: **conda install -c conda-forge jupyter_contrib_nbextensions**
+      2.  Daarna type je, nog steeds in de Powershell: **jupyter contrib nbextension install -user**
+      3. Open nu het **jupyter notebook** programma (oranje icoon)
+      4.  In de webbrowser, in de tab waar je de bestandsboom ziet klik je op de tab **Nbextensions**
+      5.   Deselecteer **Disable configuration...**
+      6.  Selecteer nu de extensies van je keuze. Bijvoorbeeld:
+          - *Latex environments* die je toelaten latex vergelijkingen in je markdown toe te voegen.
+          - *Scratchpad* een kleine kladblok popup waarin je snel python commando's kan uittesten.
+          - *ExecuteTime* om te zien hoe lang het duurde om een cel uit te voeren.
+          - *Codefolding* wat je toelaat om stukken code samen te vouwen en zo een compactere en overzichtelijkere notebook te creëren.
 
 ###  <a name='miniconda'> </a> 2.2. Miniconda
 Miniconda is een lichtgewicht broertje van Anaconda. Dit is een interessante omgeving welke je 
