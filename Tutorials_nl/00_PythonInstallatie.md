@@ -74,37 +74,24 @@ Jupyter notebook tool laat je toe lokaal jupyter notebooks te creëren en uit te
 De installatie instructies voor verschillende besturingssystemen kun je terugvinden in de 
 [online handleiding](https://docs.anaconda.com/anaconda/install/index.html). In het geval 
 van een Windows systeem kun je als volgt te werk gaan:
+
 1. **Download Anaconda** [Installer](https://www.anaconda.com/products/distribution). Deze
-     installer is >600Mb groot, dus dat kan even duren.<br/>
-2. **Voer de Anaconda-Installer uit**<br/>
-   - **!! OPLETTEN !!** Installeer *enkel voor jezelf* en **niet voor _alle_ _gebruikers_** gezien
-	   dit laatste problemen kan geven met permissies (*i.e.* toegankelijkheid van bestanden)<br/>
-   - **!! OPLETTEN !!** Installeer op een plaats waar je voldoende ruimte hebt (5-10Gb minimaal)
-	   gezien een python installatie snel in grootte kan groeien met het toevoegen van *packages* 
-	   en *environments*.<br/>
-   - **!! OPLETTEN !!** Vermijd installaties op **OneDrive**,**GoogleDrive**,... en andere van dergelijke virtuele
-	   drives (ook als is dit waar je *default* gebruiksinformatie terechtkomt. Installatie op dergelijke
-	   drives geeft over het algemeen problemen met toegankelijkheid.<br/>
-3. **Installatie van Jupyter notebooks**<br/>
-   3.1. Start de **Anaconda navigator** (groene cirkelvormige icoon).<br/>
-   3.2. Update de navigator indien gevraagd, en herstart na de update.<br/>
-   3.3. Check of **Jupyter notebooks** geinstalleerd zijn. Indien niet: Installeer en 
-	      sluit de navigator af na afloop van de installatie.<br/>
-   3.4. Persoonlijk ben ik niet zo een fan van het idee dat alle bestanden van een gebruiker
-        in de *user/documents* map terecht moeten komen. Omdat jupyter notebooks de map 
-	waarin het programma opent beschouwen als de *root*-map, is het niet mogelijk naar 
-	een hoger liggende map te gaan of bestanden in een parallelle map te openen. Om 
-	dit feature te omzeilen en jupyter notebooks in een root-map van je keuze te openen 
-	ga je als volgt te werk:< br/>
-        i.  Ga naar de map met de **snelkoppeling naar Jupyter notebook**.<br/>
-        ii.  Klik rechts op de snelkoppeling en kies **properties** (eigenschappen)<br/>
-        iii. Pas de **Start in** lokatie aan naar de map van je keuze. (*e.g.* D:\ )<br/>
-        iv.  **Verwijder** het *%USERPROFILE%* in het **Target** veld.<br/>
-        v.   **Voeg de gekozen lokatie toe** (hier was dat D:\ ) aan het **einde** van het **Target** veld.<br/>
-        vi.  Indien je meerdere drives op je computer hebt, en je wenst jupyter notebooks vanop
-			     verschillende drives te starten, dan kun je gebruik maken van snelkoppelingen tussen
-				 de verschillende drives.(Merk op dat je eindpunt van een snelkoppeling telkens de rol
-				 van een *root* map krijgt.)<br/>
+     installer is >600Mb groot, dus dat kan even duren.
+2. **Voer de Anaconda-Installer uit**
+   - **!! OPLETTEN !!** Installeer *enkel voor jezelf* en **niet voor _alle_ _gebruikers_** gezien dit laatste problemen kan geven met permissies (*i.e.* toegankelijkheid van bestanden)
+   - **!! OPLETTEN !!** Installeer op een plaats waar je voldoende ruimte hebt (5-10Gb minimaal) gezien een python installatie snel in grootte kan groeien met het toevoegen van *packages* en *environments*.
+   - **!! OPLETTEN !!** Vermijd installaties op **OneDrive**,**GoogleDrive**,... en andere van dergelijke virtuele drives (ook als is dit waar je *default* gebruiksinformatie terechtkomt. Installatie op dergelijke drives geeft over het algemeen problemen met toegankelijkheid.
+3. **Installatie van Jupyter notebooks**
+   1. Start de **Anaconda navigator** (groene cirkelvormige icoon).
+   2. Update de navigator indien gevraagd, en herstart na de update.
+   3. Check of **Jupyter notebooks** geinstalleerd zijn. Indien niet: Installeer en sluit de navigator af na afloop van de installatie.
+   4. Persoonlijk ben ik niet zo een fan van het idee dat alle bestanden van een gebruiker in de *user/documents* map terecht moeten komen. Omdat jupyter notebooks de map waarin het programma opent beschouwen als de *root*-map, is het niet mogelijk naar een hoger liggende map te gaan of bestanden in een parallelle map te openen. Om dit feature te omzeilen en jupyter notebooks in een root-map van je keuze te openen ga je als volgt te werk:
+      1.  Ga naar de map met de **snelkoppeling naar Jupyter notebook**.
+      2.  Klik rechts op de snelkoppeling en kies **properties** (eigenschappen)
+      3. Pas de **Start in** lokatie aan naar de map van je keuze. (*e.g.* D:\ )
+      4.  **Verwijder** het *%USERPROFILE%* in het **Target** veld.
+      5.   **Voeg de gekozen lokatie toe** (hier was dat D:\ ) aan het **einde** van het **Target** veld.
+      6.  Indien je meerdere drives op je computer hebt, en je wenst jupyter notebooks vanop verschillende drives te starten, dan kun je gebruik maken van snelkoppelingen tussen de verschillende drives.(Merk op dat je eindpunt van een snelkoppeling telkens de rol	van een *root* map krijgt.)
 4. **Update van Python omgeving naar huidige versie**<br/>
    4.1. Start de **Anaconda Powershell Prompt** als **_administrator_** (zwarte venster icoon)<br/>
    4.2. Om de meest recente versie van conda te hebben type je in de powershell: **conda update conda**.<br/>
