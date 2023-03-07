@@ -12,6 +12,7 @@ reeds enkele interessante zaken zelf te kunnen uitvoeren. Voor verdere verdiepin
 - [https://realpython.com/](https://realpython.com/) 
 - [https://towardsdatascience.com/](https://towardsdatascience.com/) 
 - [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
+- [Python software engineering](https://github.com/gjbex/Python-software-engineering)  ([Geert Jan Bex](https://github.com/gjbex), UHasselt)
 - [ML & AI](https://dannyvanpoucke.be/machine-learning-and-artificial-intelligence/)
 - [Integrating Python into a Physical Chemistry Lab](https://github.com/chemdrv/python-for-pchem) ([doi: 10.1021/acs.jchemed.2c00193](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00193) )
 - [Gentle introduction to ML for chemists](https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry)  ([doi: 10.1021/acs.jchemed.1c00142](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00142))
